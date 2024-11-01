@@ -1,7 +1,7 @@
 # Traffic Light Controller
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<center>
   <img  width="457" alt="image" src="https://github.com/user-attachments/assets/7523bed4-baf1-4c4a-a256-1129766c73b8">
-</div>
+</center>
 
 ## Overview
 An advanced VHDL-based traffic light control system featuring intelligent sensor integration and adaptive signal management.
